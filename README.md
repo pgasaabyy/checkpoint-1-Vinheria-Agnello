@@ -127,7 +127,7 @@ Use o Monitor Serial para verificar os valores brutos do LDR no seu ambiente e c
 ```
 vinheria-agnello/
 ├── vinheria_agnello.ino   ← Código-fonte principal
-├── 1000155033.png         ← Imagem do circuito (Tinkercad)
+├── circuito.png         ← Imagem do circuito (Tinkercad)
 └── README.md              ← Este arquivo
 ```
 
@@ -137,7 +137,7 @@ vinheria-agnello/
 
 | Integrante | RM |
 |------------|----|
-| Guilherme Tome | 570144 |
+| Guilherme Tome Nogueira| 570144 |
 | Lucas de Andrade Astorini | 569119 |
 | Sabrina Lopes da Silva | 571870 |
 | Sofia Satomi Hagio | 569120 |
