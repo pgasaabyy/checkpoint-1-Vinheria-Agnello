@@ -21,7 +21,7 @@ O vinho é sensível à luz: a exposição excessiva degrada seus compostos org�
 
 ## 🔌 Circuito
 
-![Circuito do projeto no Tinkercad](./1000155033.png)
+![Circuito do projeto no Tinkercad](./circuito.png)
 
 > Simulação montada no **Tinkercad**. O LDR lê a luminosidade e envia o sinal analógico à porta `A0` do Arduino, que processa e aciona os componentes conforme os limiares definidos no código.
 
