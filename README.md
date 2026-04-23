@@ -29,8 +29,8 @@ O vinho é sensível à luz: a exposição excessiva degrada seus compostos org�
 
 ## 🎥 Vídeo de Apresentação
 
-[![Assista no YouTube]
-(https://img.shields.io/badge/YouTube-Assistir%20Apresentação-red?style=for-the-badge&logo=youtube)](https://youtu.be/E_VeabWIuwE?si=LpvlSQirIN8TYRqz)
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Apresentação-red?style=for-the-badge&logo=youtube)
+](https://youtu.be/E_VeabWIuwE?si=LpvlSQirIN8TYRqz)
 
 ---
 
