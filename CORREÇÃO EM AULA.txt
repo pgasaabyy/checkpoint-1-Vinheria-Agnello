@@ -1,0 +1,5 @@
+>>>>>>>>>>>>>>  CORREÇÃO EM AULA <<<<<<<<<<<<<<<<
+
+Conforme discutido em aula, interpretamos a explicação do professor no sentido de que o sistema de alerta deveria ser acionado já no momento em que o sinal indicasse estado de atenção, ou seja, quando o LED amarelo estivesse ativo, e não apenas na condição crítica representada pelo LED vermelho.
+
+Dessa forma, realizamos o funcionamento do projeto para que a buzina seja acionada por três segundos durante o LED amarelo, caracterizando um aviso inicial ao usuário. Já no LED vermelho, que indica uma situação mais crítica, a buzina permanece ligada continuamente, reforçando a necessidade de atenção imediata.
