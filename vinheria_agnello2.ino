@@ -1,3 +1,15 @@
+/*
+ * =============================================================
+ *  FIAP — Edge Computing & Computer Systems
+ *  Checkpoint 02 — Vinheria Agnello
+ ====
+ *    Guilherme Tome Nogueira       RM: 570144
+ *    Lucas de Andrade Astorini     RM: 569119
+ *    Sabrina Lopes da Silva        RM: 571870
+ *    Sofia Satomi Hagio            RM: 569120
+*/
+
+
 #include <LiquidCrystal.h>
 #include <DHT.h>
 
