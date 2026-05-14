@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Descrição do Projeto
+## Descrição do Projeto
 
 O vinho é sensível a três fatores ambientais principais: **luminosidade**, **temperatura** e **umidade**. A exposição excessiva à luz degrada compostos orgânicos; variações de temperatura acima de 3°C causam aromas indesejados; e umidade fora da faixa ideal compromete vedantes e rótulos.
 
@@ -15,7 +15,7 @@ Este sistema monitora continuamente esses três fatores e responde de forma auto
 
 ---
 
-## 🌡️ Faixas Ideais de Armazenamento
+## Faixas Ideais de Armazenamento
 
 | Fator | Faixa Ideal | Fonte |
 |---|---|---|
@@ -53,7 +53,7 @@ Este sistema monitora continuamente esses três fatores e responde de forma auto
 
 ---
 
-## 🔌 Circuito
+## Circuito
 
 ![Circuito do projeto](circuito.jpg)
 
@@ -63,7 +63,7 @@ Este sistema monitora continuamente esses três fatores e responde de forma auto
 
 ---
 
-## 🎥 Vídeo de Apresentação
+## Vídeo de Apresentação
 
 [![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Apresenta%C3%A7%C3%A3o-red?style=for-the-badge&logo=youtube)](https://youtu.be/M6Er3k_67Ww?si=wdpfwa03QXsFueZl)
 
@@ -96,7 +96,7 @@ Este sistema monitora continuamente esses três fatores e responde de forma auto
 
 ---
 
-## 🚀 Como Reproduzir
+## Como Reproduzir
 
 ### Opção A — Simulação Online (Wokwi)
 
@@ -119,7 +119,7 @@ Este sistema monitora continuamente esses três fatores e responde de forma auto
 
 ---
 
-## ⚙️ Ajuste dos Limiares
+## Ajuste dos Limiares
 
 No arquivo `.ino`, as variáveis abaixo controlam os limites de cada estado. Ajuste conforme o ambiente real:
 
@@ -153,7 +153,7 @@ checkpoint-1-Vinheria-Agnello/
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 | Integrante | RM |
 |---|---|
