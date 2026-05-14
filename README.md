@@ -7,7 +7,7 @@
 
 ## Descrição do Projeto
 
-O vinho é sensível a três fatores ambientais principais: **luminosidade**, **temperatura** e **umidade**. A exposição excessiva à luz degrada compostos orgânicos; variações de temperatura acima de 3°C causam aromas indesejados; e umidade fora da faixa ideal compromete vedantes e rótulos.
+O vinho é sensível a três fatores ambientais principais: **luminosidade**, **temperatura** e **umidade**. A exposição excessiva à luz degrada compostos orgânicos; variações de temperatura acima de 10°C causam aromas indesejados; e umidade fora da faixa ideal compromete vedantes e rótulos.
 
 Este sistema monitora continuamente esses três fatores e responde de forma automática, exibindo os valores em um display LCD e acionando LEDs e buzzer conforme os níveis detectados.
 
