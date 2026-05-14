@@ -154,9 +154,10 @@ Use o Monitor Serial para verificar os valores brutos dos sensores no seu ambien
 
 ```
 checkpoint-1-Vinheria-Agnello/
-├── vinheria_agnello.ino   ← Código do antigo sistema
-├── vinheria_agnello2.ino   ← Código do novo sistema (atual)
-├── circuito.png           ← Imagem do circuito
+├── vinheria_agnello.ino   ← Código-fonte do sistema luminosidade (antigo)
+├── vinheria_agnello2.ino   ← Código-fonte do sistema ambiental (atual)
+├── circuito.png           ← Imagem do circuito luminosidade
+├── circuito.jpg           ← Imagem do circuito ambiental
 └── README.md              ← Este arquivo
 ```
 
